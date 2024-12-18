@@ -4,7 +4,7 @@
    <header class="mans"> 
         <div class="mans-con">
             <div class="mans-navbar">
-                <h1 style="cursor: pointer;">MANS</h1>
+                <h1 style="cursor: pointer;">MANS123</h1>
                 <div class="nav-links">
                     <div class="home">
                         <a class='mans-link' href='#home'>HOME</a>
